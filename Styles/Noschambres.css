@@ -1,0 +1,189 @@
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: left;
+    display: inline-block;
+    margin-left: 120px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: goldenrod;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.menu ul li a:hover {
+    color: whitesmoke;
+}
+
+.menu {
+    background-color: black;
+    width: 100%;
+    height: 58px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.ligne2 {
+    text-align: center;
+}
+
+.T1 {
+    margin-top: 30px;
+}
+
+.line {
+    height: 2px;
+    width: 180px;
+    background-color: black;
+}
+
+.part {
+    height: 2px;
+    width: 180px;
+    background-color: black;
+}
+
+.media img:hover {
+    transform: scale(1.1);
+
+}
+
+.tip {
+    border-left: 1px solid black;
+    height: 500px;
+    margin-left: 100px;
+}
+
+.ligne3 {
+    display: flex;
+}
+
+.T4 {
+    margin-left: 100px;
+}
+
+.T3 {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.ligne3 {
+    height: 1000px;
+    background-color: bisque;
+    width: auto;
+    padding-top: 10px;
+
+}
+
+.form2 {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.form3 {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.form4 {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.form5 {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.form6 {
+    margin-left: 15px;
+}
+
+.form1 {
+    margin-left: 15px;
+}
+
+.coche {
+    margin-left: 15px;
+}
+
+.txt {
+    margin-left: 15px;
+}
+
+.ligne4 {
+    background-color: bisque;
+    height: 780px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.bouton ul {
+    list-style-type: none;
+}
+
+.bouton ul li a {
+    background-color: black;
+    color: antiquewhite;
+    font-family: serif;
+    text-decoration: none;
+    padding: 16px 20px 16px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: background-color 0.5 ease;
+    font-size: 14px;
+
+}
+
+.bouton ul li a:hover {
+    color: brown;
+}
+
+.Logo ul {
+    list-style-type: none;
+}
+
+.Logo img:hover {
+    transform: scale(1.1);
+}
+
+.BID {
+    border-bottom: 3px solid black;
+    width: 2cm;
+
+}
+
+.main ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: serif;
+}
+
+.main {
+    margin-top: 25px;
+}
+
+.main ul li a:hover {
+    color: brown;
+}
+
+.ligne5 {
+    display: flex;
+}
+
+.TITRE2 {
+    margin-left: 100px;
+}
+
+.BIDE {
+    border-bottom: 3px solid black;
+    width: 2cm;
+    white-space: nowrap;
+}
